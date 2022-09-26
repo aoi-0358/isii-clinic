@@ -37,8 +37,6 @@
 .loadingText {
   animation: 1s flashing infinite;
 }
-/*--loading---------------------*/
-
 /*--img animation---------------*/
 @keyframes fadein {
 0%{
